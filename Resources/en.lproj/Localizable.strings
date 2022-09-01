@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Awfarlak
+
+  Created by Ahmed Madeh on 23/05/2022.
+  
+*/
+
+"email" = "E-mail";
+"nav_home" = "Home";
+"nav_categories" = "Categories";
+"nav_offers" = "Offers";
+"providers" = "Providers";
+"categories" = "Categories";
+"emptyField" = "This field can't be empty";
+"missMatch" = "confirm password does not match";
+"message_content" = "Message Content";
+"enter_message_content" = "enter message content";
+"invalidName" = "Type your user name";
+"type_password" = "Type your user password";
+"Please_enter_valid_email" = "Please enter valid email";
+"phone_number" = "Mobile number";
+"enter_phone_number" = "please type mobile number";
+"add_full_name" = "Full name";
+"contact_us" = "Contact Us";
+"send" = "Send";
+"notifications" = "Notifications";
+"password" = "Password";
+"register" = "Register";
+"already_have_an_account_login" = "Already have an account ? ";
+"login" = "Login";
+"don_t_have_an_account_sign_up" = "Don't have an account ?";
+"sign_up" = "Sign Up";
+"edit_personal_info" = "Edit Personal Info";
+"change_language" = "Change App Language";
+"log_out" = "Sign Out";
+"are_you_sure_you_want_to_change_app_language" = "Are you sure you want to change app language ?";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"refer_a_friend" = "Refer a Friend";
+"chooseFile" = "Choose image";
+"by_sining_in_you_accept" = "By signing in you accept ";
+"privacy_policy" = "Privacy Policy";
+"terms_conditions" = "Terms of use";
+"and" = "And";
+"country" = "Country";
+"success_update" = "Updated Successfully";
+"ok" = "Ok";
+"message_sent" = "Message Send Successfully";
+"search" = "Search";
+"rates" = "Rates";
+"show nearst" = "Show nearest";
+"offers search" = "Search for offers";
+"suppliers search" = "Search for Providers";
+"delete_account" = "Delete Account";
+"data_loss_warning" = "You will lose all data you share on app, continue?";
+"delete" = "Delete";

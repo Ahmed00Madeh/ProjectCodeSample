@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  Awfarlak
+
+  Created by Ahmed Madeh on 23/05/2022.
+  
+*/
+
+"email" = "البريد الالكتروني";
+"nav_home" = "الرئيسية";
+"nav_categories" = "التصنيفات";
+"nav_offers" = "عروض";
+"providers" = "مزودي الخدمة";
+"categories" = "التصنيفات";
+"message_content" = "محتوى الرسالة";
+"enter_message_content" = "أدخل محتوى الرسالة";
+"invalidName" = "اكتب اسم المستخدم الخاص بك";
+"type_password" = "اكتب كلمة مرور المستخدم الخاصة بك";
+"Please_enter_valid_email" = "الرجاء إدخال بريد إلكتروني صحيح";
+"phone_number" = "رقم الهاتف المحمول";
+"enter_phone_number" = "الرجاء كتابة رقم الهاتف المحمول";
+"add_full_name" = "الاسم الكامل";
+"contact_us" = "اتصل بنا";
+"send" = "إرسال";
+"notifications" = "الإشعارات";
+"password" = "كلمة المرور";
+"register" = "تسجيل حساب جديد";
+"already_have_an_account_login" = "هل لديك حساب ؟ ";
+"login" = "تسجيل الدخول";
+"don_t_have_an_account_sign_up" = "ليس لديك حساب ؟ ";
+"sign_up" = "تسجيل حساب";
+"edit_personal_info" = "تعديل المعلومات الشخصية";
+"change_language" = "تغيير لغة التطبيق";
+"log_out" = "خروج";
+"are_you_sure_you_want_to_change_app_language" = "هل أنت متأكد أنك تريد تغيير لغة التطبيق؟";
+"cancel" = "رجوع";
+"yes" = "نعم";
+"refer_a_friend" = "أوص أحد الأصدقاء";
+"chooseFile" = "اختر صورة";
+"by_sining_in_you_accept" = "بتسجيل الدخول، انت تقبل ";
+"privacy_policy" = "سياسة الخصوصية";
+"terms_conditions" = "شروط الخدمة";
+"and" = "و";
+"save" = "حفظ";
+"country" = "الدولة";
+"success_update" = "تم التعديل بنجاح";
+"ok" = "حسنا";
+"message_sent" = "تم ارسال الرسالة بنجاح";
+"search" = "بحث";
+"Something went wrong" = "حدث خطأ";
+"Back" = "رجوع";
+"Yes" = "نعم";
+"Pick Your Picture" = "اختر صورتك";
+"Choose from Library" = "اختر من المكتبة";
+"Take a Picture from Camera" = "من الكاميرا";
+"rates" = "التقييمات";
+"show nearst" = "عرض الأقرب";
+"offers search" = "البحث عن عروض";
+"suppliers search" = "ابحث عن مزودي خدمة";
+"Offer Details" = "تفاصيل العرض";
+" Ratings" = " تقيمات";
+"Call Phone" = "مكالمة هاتفية";
+"Rate this offer" = "قيم هذا العرض";
+"Please select stars and enter notes" = "الرجاء تحديد بعض النجوم وتقديم ملاحظات";
+"Please enter your comment here ..." = "رجاء اكتب تعليقك هنا ...";
+"Very Bad" = "سيئ جدا";
+"Not good" = "غير جيد";
+"Quite ok" = "جيد الي حد ما";
+"Very Good" = "جيد جدًا";
+"Excellent !!!" = "ممتاز !!!";
+"Please choose a rate" = "من فضلك اختر تقييم";
+"Please enter a comment" = "من فضلك ادخل تعليق";
+"Call Now" = "اتصل الان";
+"Open Map" = "افتح الخريطة";
+" offers" = " عرض";
+"delete_account" = "حذف الحساب";
+"data_loss_warning" = "سوف تفقد جميع البيانات التي قمت باضافتها على التطبيق، متابعة؟";
+"delete" = "حذف";
+"Cancel" = "إلغاء";

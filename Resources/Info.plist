@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>tajawal_bold.ttf</string>
+		<string>tajawal_extra_bold.ttf</string>
+		<string>tajawal_light.ttf</string>
+		<string>tajawal_medium.ttf</string>
+		<string>tajawal_regular.ttf</string>
+	</array>
+</dict>
+</plist>
